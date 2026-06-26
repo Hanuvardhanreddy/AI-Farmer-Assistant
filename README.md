@@ -85,6 +85,12 @@ npm run dev
 - Weather Forecast
 - Farmer Community
 
+## 🚀 Live Demo
+
+🌐 **Live Website**
+
+https://ai-farmer-assistant-lake.vercel.app/
+
 ---
 
 ## 👨‍💻 Author
